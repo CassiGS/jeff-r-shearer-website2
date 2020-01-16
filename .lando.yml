@@ -1,0 +1,4 @@
+name: jeff-website
+recipe: wordpress
+config:
+  webroot: .
