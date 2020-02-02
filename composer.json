@@ -1,5 +1,10 @@
 {
-    "require": {
-        "timber/timber": "^1.14"
-    }
+    "name": "cassi.gs/jeff-r-shearer-website2",
+    "authors": [
+        {
+            "name": "Cassi Gallagher-Shearer",
+            "email": "cassi.gs@slalom.com"
+        }
+    ],
+    "require": {}
 }
